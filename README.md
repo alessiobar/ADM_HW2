@@ -1,7 +1,7 @@
 # ADM_HW2
 
-Adda matteo come collaborator!!!!!!!!!!!!!!
+`main.ipynb`contains the notebook with the Python code.
 
-Compila il solito cavolo di form google con link e emails
+Course: Algorithmic Methods of Data Mining and Laboratory
 
-Remember even to compilare i form che pubblicao dopo la scadenza entro 5 giornincxzvm
+Members: Alessio Barboni (TBD), Matteo Broglio (1200739).
