@@ -1,4 +1,5 @@
 # ADM_HW2
+This repository contains the jupyter notebook.
 
 `main.ipynb`contains the notebook with the Python code.
 
